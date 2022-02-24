@@ -2,7 +2,7 @@
 
 ##  <a href="https://www.panhdpe.xyz/r/9689528" target="_blank">PandaVPN</a>
 
-![panda](assets/README/panda.png)
+![](assets/vpn/panda.png)
 
 Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，平时优惠活动很多，是一款便宜好用的VPN
 
